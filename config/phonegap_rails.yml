@@ -1,0 +1,9 @@
+#
+#  General settings
+#
+phonegap_path: '~/myapp/phonegap'
+api_server:    'http://localhost:3000'
+
+#  Android settings
+android:
+ package: 'com.example.appname'
